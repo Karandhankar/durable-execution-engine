@@ -1,0 +1,29 @@
+Prompt 1:
+How to build a durable execution engine in Java?
+
+Prompt 2:
+How to implement step memoization using SQLite?
+
+Prompt 3:
+How to resume workflow after crash?
+
+Prompt 4:
+How to implement logical sequence tracking?
+
+Prompt 5:
+How to run parallel workflow steps using CompletableFuture?
+
+Prompt 6:
+How to handle SQLite concurrency?
+
+Prompt 7:
+How to serialize outputs using JSON in Java?
+
+Prompt 8:
+How to simulate crash and test durability?
+
+Prompt 9:
+How to design CLI workflow runner?
+
+Prompt 10:
+How to handle zombie steps in durable workflows?
